@@ -75,7 +75,7 @@ body {
 .hero {
     width: 100%;
     background-color: blue;
-    background-image: url('/images/bg.png');
+    background-image: url('images/bg.png');
     background-size: cover;
     background-position: center 2%;
     background-repeat: no-repeat;
